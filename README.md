@@ -1,4 +1,4 @@
-# FiveM Blip Creator (Lua)
+# FiveM Blip Creator
 
 A simple Lua script for FiveM that allows easy creation of map blips directly from the configuration file. The script is lightweight, customizable, and designed to be user-friendly.
 
